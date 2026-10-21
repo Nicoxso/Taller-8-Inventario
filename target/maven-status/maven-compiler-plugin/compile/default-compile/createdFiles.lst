@@ -1,0 +1,8 @@
+com\mycompany\taller8inventario\dao\CategoriaDAO.class
+com\mycompany\taller8inventario\model\Categoria.class
+com\mycompany\taller8inventario\model\Producto.class
+com\mycompany\taller8inventario\conexion\Conexion.class
+com\mycompany\taller8inventario\vista\VentanaInventario.class
+com\mycompany\taller8inventario\vista\VentanaInventario$1.class
+com\mycompany\taller8inventario\Taller8Inventario.class
+com\mycompany\taller8inventario\dao\ProductoDAO.class
