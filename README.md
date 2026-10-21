@@ -6,7 +6,7 @@ Iniciar MySQL desde XAMPP.
 
 Abrir phpMyAdmin en http://localhost/phpmyadmin.
 
-Ejecutar el script tienda.sql para crear la base de datos, las tablas y los datos iniciales.
+Ejecutar el script tienda.sql y copiar en SQL para crear la base de datos, las tablas y los datos iniciales.
 
 Abrir el proyecto desde NetBeans usando el archivo pom.xml.
 
