@@ -10,7 +10,7 @@ Ejecutar el script tienda.sql para crear la base de datos, las tablas y los dato
 
 Abrir el proyecto desde NetBeans usando el archivo pom.xml.
 
-Verificar en Conexion.java la URL y el usuarioL.
+Verificar en Conexion.java la URL y el usuario.
 
 Esperar a que Maven descargue las dependencias.
 
